@@ -4,7 +4,7 @@
 Autor: Yuri Braz
 E-mail: ybraz@proton.me
 Data: 13-01-23
-Versão: 0.1
+Versão: 0.2
 '''
 
 '''
